@@ -1,1 +1,1 @@
-# kakky-game-hp
+# kakky-game-hp.github.io
